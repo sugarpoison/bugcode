@@ -1,0 +1,5 @@
+print("i am")
+print("\"learning\"")
+print("\\Python! (hopefully)\\")
+print("hi! my name is: \nben")
+print("name: ben \t address: my house\t city: awesometown\t state: liquid\t zip: dot exe")
